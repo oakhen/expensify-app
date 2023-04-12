@@ -1,0 +1,12 @@
+@import "./base/settings";
+@import "./base/base";
+@import "react-dates/lib/css/_datepicker.css";
+
+.expense {
+  border: 1px solid grey;
+  background: #00000090;
+  margin: 30px 10px;
+  border-radius: 4px;
+  padding: 5px;
+  text-transform: uppercase;
+}
